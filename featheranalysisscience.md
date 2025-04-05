@@ -230,7 +230,3 @@ These personas can inform **email campaigns**, **renewal strategies**, and **don
 | Classification    | `RandomForest`, `LogReg`, `GBM`   | Predict donor persona               |
 | Feature Analysis  | `feature_importances_`            | Explained prediction decisions      |
 | Time Series       | `groupby().sum()`, `lineplot()`   | Tracked temporal behavior patterns  |
-
----
-
-Would you like this entire report exported to a PDF, Markdown file, or formatted Google Doc? I can prepare it for presentations or internal review.
